@@ -1,6 +1,6 @@
 # Coucou, moi c'est **Raphaël** 👋
 
-**Étudiant en dernière année d'école d'ingénieur en informatique à l'INSA de Lyon**, je passionné par le développement d'applications et le développement web. J'ai notamment acquis de l'expérience en développement Fullstack et gestion de projet agile au cours de mon parcours.
+Je suis passionné par le développement d'applications et le développement web en Fullstack et souhaite en faire mon futur métier :)
 
 ---
 
