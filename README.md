@@ -15,8 +15,6 @@
 
 ## 🔧 Technologies & Outils
 
-Voici quelques-unes des technologies avec lesquelles je travaille :
-
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat-square)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square)
